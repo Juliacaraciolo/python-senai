@@ -1,0 +1,6 @@
+print('Olá, mundo!')
+print ('Eu sou linda!')
+print('Eu gosto de batatinhas!')
+print('Eu amo usar roupa preta!')
+print('I love pugs!')
+print ('Finalmente férias')
